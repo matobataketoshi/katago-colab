@@ -9,10 +9,10 @@ https://www.h-eba.com/Lizzie/gck.html
 **Korean Version**  
 https://colab.research.google.com/drive/1b99A3CVrK4GdaD-DHivh5nT_dN_SpFbJ?usp=sharing
 
-**Japanese Version**
+**Japanese Version** TensorRT_60b
 https://github.com/matobataketoshi/katago-colab/blob/master/colab_katago_gdauto_jp_TensorRT.ipynb
 
-**English Version**
+**English Version** TensorRT_60b
 https://github.com/matobataketoshi/katago-colab/blob/master/colab_katago_gd_en.ipynb
 
 # Build
